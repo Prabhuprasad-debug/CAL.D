@@ -1,2 +1,2 @@
-# learn-calculator
-Create a Calculator using JS
+# CAL.D
+Calculator using css and js
